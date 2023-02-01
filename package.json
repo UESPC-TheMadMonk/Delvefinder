@@ -15,12 +15,18 @@
     "foundry",
     "elder-scrolls",
     "pathfinder",
-    "pathfinder-2e",
+    "pathfinder-2e"
   ],
   "author": "TheMadMonk",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/UESPC-TheMadMonk/Delvefinder/issues"
   },
-  "homepage": "https://github.com/UESPC-TheMadMonk/Delvefinder#readme"
+  "homepage": "https://github.com/UESPC-TheMadMonk/Delvefinder#readme",
+  "dependencies": {
+    "create-index": "^2.6.0"
+  },
+ "publishConfig": {
+   "@UESPC-TheMadMonk:registry": "https://npm.pkg.github.com"
+  }
 }

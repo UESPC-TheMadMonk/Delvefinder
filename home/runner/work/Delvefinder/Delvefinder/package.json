@@ -1,14 +1,26 @@
 {
-	"name": "delvefinder",
-	"version": "1.1.1",
-	"author": "TheMadMonk",
-	"type": "module",
-	"description": " ",
-	"license": "Apache-2.0 or later",
-	"homepage": "https://https://github.com/UESPC-TheMadMonk/Delvefinder",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/UESPC-TheMadMonk/Delvefinder.git"
-	},
-  }
+  "name": "delvefinder",
+  "version": "1.1.1",
+  "description": "The Elder Scrolls meets Pathfinder 2nd Edition in this module featuring new ancestries, dozens of feats and more!",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UESPC-TheMadMonk/Delvefinder.git"
+  },
+  "keywords": [
+    "foundryvtt",
+    "foundry",
+    "elder-scrolls",
+    "pathfinder",
+    "pathfinder-2e"
+  ],
+  "author": "TheMadMonk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/UESPC-TheMadMonk/Delvefinder/issues"
+  },
+  "homepage": "https://github.com/UESPC-TheMadMonk/Delvefinder#readme"
 }

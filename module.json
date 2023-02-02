@@ -11,6 +11,9 @@
       "flags": {}	  
     },
   ],  
+  "scripts": [
+    "init.js"
+  ]
   "packs": [
     {
       "name": "uespc-actions",

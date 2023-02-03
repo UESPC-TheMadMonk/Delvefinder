@@ -9,11 +9,11 @@
 	  "url": "https://discord.com/invite/qcHPeng",
 	 "discord": "TheMadMonk#1111",
       "flags": {}	  
-    },
+    }
   ],  
   "scripts": [
     "init.js"
-  ]
+  ],
   "packs": [
     {
       "name": "uespc-actions",
